@@ -1,5 +1,7 @@
 # Siamese and triplet learning with online pair/triplet mining
 
+*** Forked from https://github.com/adambielski/siamese-triplet ***
+
 PyTorch implementation of siamese and triplet networks for learning embeddings.
 
 Siamese and triplet networks are useful to learn mappings from image to a compact Euclidean space where distances correspond to a measure of similarity [2]. Embeddings trained in such way can be used as features vectors for classification or few-shot learning tasks.
